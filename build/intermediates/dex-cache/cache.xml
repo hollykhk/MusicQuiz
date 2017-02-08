@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\hxk132830\AndroidStudioProjects\MusicQuiz\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e2719c102dca3a7a5b02ce07f769362da6ddb4ab">
+        <dex dex="C:\Users\hxk132830\AndroidStudioProjects\MusicQuiz\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-fragment-25.1.1_85c848c359d2fe0f2b9a924e8f0431bc28b89233\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\hxk132830\AndroidStudioProjects\MusicQuiz\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="02741d05d4b697fba5e279e9881aaa1da0ca7c7f">
+        <dex dex="C:\Users\hxk132830\AndroidStudioProjects\MusicQuiz\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-compat-25.1.1_670d4a931f210b9a56c75a466ca458b2d859de92\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\hxk132830\AndroidStudioProjects\MusicQuiz\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7bde4c34162092e0a77e7f12dc85ed77c484cf5c">
+        <dex dex="C:\Users\hxk132830\AndroidStudioProjects\MusicQuiz\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-media-compat-25.1.1_7f814ffe840d1d59fd1eda6577a23b1cc8a85c9a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\hxk132830\AndroidStudioProjects\MusicQuiz\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0d191c1a09e4892d059e5ce749e4ad4e08129e35">
+        <dex dex="C:\Users\hxk132830\AndroidStudioProjects\MusicQuiz\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-25.1.1_c4ea636aeb5ab4181c4aabc35faac82d0040f5cd\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\hxk132830\AndroidStudioProjects\MusicQuiz\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\hxk132830\AndroidStudioProjects\MusicQuiz\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-25.1.1_6b5501bb20c4a3719edee4e29210a05fcd474834\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.1.1\support-annotations-25.1.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b59b6ee8d6ecc03e672d253800430343493a6ed8">
+        <dex dex="C:\Users\hxk132830\AndroidStudioProjects\MusicQuiz\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-25.1.1_b99665049711028084c8737f4a993cc6a895f95e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\hxk132830\AndroidStudioProjects\MusicQuiz\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3e04ac8ca644ea7baddf6fdcf72e15c79e9df94a">
+        <dex dex="C:\Users\hxk132830\AndroidStudioProjects\MusicQuiz\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-ui-25.1.1_5a986742ca1b80408a5ce632b7ce681b16ddf52e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\hxk132830\AndroidStudioProjects\MusicQuiz\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="766ae24235377e3faf4bf2fc7e648645c632b90b">
+        <dex dex="C:\Users\hxk132830\AndroidStudioProjects\MusicQuiz\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_ca026e327a94de9bc458ec2ab11bcf844ca71cc9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\hxk132830\AndroidStudioProjects\MusicQuiz\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c03bf57f358aa10d253f21989e93bcf6014b3b17">
+        <dex dex="C:\Users\hxk132830\AndroidStudioProjects\MusicQuiz\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-25.1.1_e718306f3a220194fcf76c833abd5b215318d174\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\hxk132830\AndroidStudioProjects\MusicQuiz\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f8d0a6620e80c2bbe5e0446a281fcf4113877a06">
+        <dex dex="C:\Users\hxk132830\AndroidStudioProjects\MusicQuiz\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_e1acf33fba01547724f6a43c79815133c49278b9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\hxk132830\AndroidStudioProjects\MusicQuiz\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ecb496cc08dd52551fc5ec6db3bc0632e95a89bb">
+        <dex dex="C:\Users\hxk132830\AndroidStudioProjects\MusicQuiz\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-25.1.1_350f221d36f5010b3711b2d040a71ee69399c11a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\hxk132830\AndroidStudioProjects\MusicQuiz\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0fb891e8f0cfba0513043a7bb357513d229ca2cd">
+        <dex dex="C:\Users\hxk132830\AndroidStudioProjects\MusicQuiz\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-utils-25.1.1_9db6fe002647227a3f87b7159dd9b012d6252842\classes.dex" />
+    </item>
+
+</items>
